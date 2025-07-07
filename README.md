@@ -8,8 +8,8 @@ The analysis pipeline consists of two complementary scripts to transform a colle
 ## Repository Structure
 ```
 Portfolio-analysis/
-├── keyword_extraction.py       # Stage 1: Topical keyword extraction
-├── network_analysis.py         # Stage 2: Network analysis and visualization
+├── keyword_extraction.ipynb       # Stage 1: Topical keyword extraction
+├── network_analysis.ipynb         # Stage 2: Network analysis and visualization
 └── README.md
 ```
 
