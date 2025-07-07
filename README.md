@@ -15,7 +15,7 @@ Portfolio-analysis/
 
 ## Two-Stage Analysis Pipeline
 
-### Stage 1: Keyword Extraction (`keyword_extraction.py`)
+### Stage 1: Keyword Extraction (`keyword_extraction.ipynb`)
 **Purpose**: Extract topical keywords from 12-page of project proposals and summaries to identify core research themes and concepts.
 
 **Methods**:
@@ -25,7 +25,7 @@ Portfolio-analysis/
 **Input**: text of project proposals
 **Output**: Structured keyword lists for each project, enabling thematic categorization
 
-### Stage 2: Network Analysis (`network_analysis.py`)
+### Stage 2: Network Analysis (`network_analysis.ipynb`)
 **Purpose**: Analyze relationships between projects based on extracted keywords and temporal patterns.
 
 **Methods**:
